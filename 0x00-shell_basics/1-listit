@@ -1,2 +1,2 @@
-#!/bin/bash 0x01_emacs 
-0x02_vi alx-pre_course bash js school so_cool
+#!/bin/bash
+ls
