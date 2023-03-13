@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt "A" "Z" | fmt "c" "e"
+tr "A" "Z" | tr "c" "e"
