@@ -1,0 +1,2 @@
+#!/bin/bash
+fmt "A" "Z" | fmt "c" "e"
